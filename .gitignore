@@ -1,0 +1,10 @@
+/collection-tools/target
+/collection-tools/collection-tools.iml
+/database-tools/database-tools.iml
+/http-tools/http-tools.iml
+/.idea/jarRepositories.xml
+/.idea/libraries/Maven__cn_hutool_hutool_all_4_3_0.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
