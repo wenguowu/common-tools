@@ -1,10 +1,12 @@
 package com.wltt.collection;
 
-import java.util.Iterator;
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.LinkedHashMap;
+import java.util.List;
 import java.util.Map;
-import java.util.Spliterator;
-import java.util.function.Consumer;
+import java.util.Optional;
+import java.util.stream.Stream;
 
 /**
  * author: wlt
@@ -29,6 +31,5 @@ public class LRUHashMap<K, V> extends LinkedHashMap<K, V> {
         System.out.println(lruHashMap.toString());
         lruHashMap.put("t5", "5");
         System.out.println(lruHashMap.toString());
-
     }
 }

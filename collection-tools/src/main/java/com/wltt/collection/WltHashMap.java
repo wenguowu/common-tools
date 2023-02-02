@@ -1,8 +1,5 @@
 package com.wltt.collection;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * author: wlt
  * date: 2019/12/12
